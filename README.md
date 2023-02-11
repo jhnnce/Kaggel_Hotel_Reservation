@@ -5,4 +5,7 @@ Los canales de reserva de hoteles en línea han cambiado drásticamente las posi
 ¿Puede predecir si el cliente cumplirá con la reserva o la cancelará?
 
  - PARA ACCEDER A MÁS DETALLES DEL DATASET, VISITE ESTE ENLACE DIRECTO A [KAGGEL](https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset)
- 
+
+# RESULTADOS
+
+De entre todos los modelos se eligió XGBOOST, no  solo porque da las mejores métricas sino que su eficiencia en cuanto a recursos computacionales es superior, puede acceder a la carpeta Results_HotelR para observar los resultados obtenidos.
